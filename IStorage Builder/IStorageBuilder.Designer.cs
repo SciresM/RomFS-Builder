@@ -1,6 +1,6 @@
-﻿namespace RomFS_Builder
+﻿namespace IStorage_Builder
 {
-    partial class Form1
+    partial class IStorageBuilder
     {
         /// <summary>
         /// Required designer variable.
@@ -90,7 +90,7 @@
             this.Controls.Add(this.B_Go);
             this.Controls.Add(this.B_Open);
             this.Name = "Form1";
-            this.Text = "RomFS Builder";
+            this.Text = "IStorage Builder";
             this.ResumeLayout(false);
             this.PerformLayout();
 

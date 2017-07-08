@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using System.Reflection;
 using System.Threading;
 
-namespace RomFS_Builder
+namespace IStorage_Builder
 {
     static class Program
     {
@@ -17,7 +17,7 @@ namespace RomFS_Builder
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new IStorageBuilder());
         }
     }
 }

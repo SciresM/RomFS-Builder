@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RomFS_Builder.Properties
+namespace IStorage_Builder.Properties
 {
 
 

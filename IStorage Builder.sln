@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomFS Builder", "RomFS Builder\RomFS Builder.csproj", "{E254FD9F-6673-42A6-A73E-66B742DA3F2E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IStorage Builder", "IStorage Builder\IStorage Builder.csproj", "{E254FD9F-6673-42A6-A73E-66B742DA3F2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
